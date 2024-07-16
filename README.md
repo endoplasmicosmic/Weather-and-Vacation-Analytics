@@ -1,5 +1,4 @@
-# Python-API-challenge: WeatherPy and VacationPy
-Python API challenge (6) homework
+# Weather and Vacation Analytics - Python APIs
 
 ## Project Overview
 This project consists of two main components: WeatherPy and VacationPy. The goal of this project is to analyze weather data across various cities and use the insights to plan future vacations.
